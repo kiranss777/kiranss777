@@ -76,7 +76,7 @@
 - ⚙️ **ETL & Orchestration** – Automated pipelines with Airflow + DBT on Snowflake
 - 🤖 **RAG Chatbot** – Context-aware Q&A system powered by LangChain & Pinecone
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🔹 Contact
 
@@ -92,7 +92,7 @@
   </a>  
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ###
 
