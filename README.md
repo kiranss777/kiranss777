@@ -11,10 +11,9 @@
 - 📄 Published Researcher: [Advancing Medical Imaging with GANs (IEEE)](https://ieeexplore.ieee.org/document/10782852)
 - ⚡ Fun fact: I once optimized a pipeline that cut processing time by **70%** 🚀
 - 👨‍💻 Visit my Website [![Portfolio](https://img.shields.io/badge/Website-kiranrao.carrd.co-blue?style=for-the-badge)](https://kiranrao.carrd.co)
-- 📫 Reach me at  <a href="mailto:sathyasunkojirao.k@northeastern.edu" target="_blank">**sathyasunkojirao.k@northeastern.edu**</a>
+- 📫 Reach me at <a href="mailto:sathyasunkojirao.k@northeastern.edu" target="_blank">**sathyasunkojirao.k@northeastern.edu**</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 ### 🔹 Skills
 
@@ -70,13 +69,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
 ### 🔹 Projects
 
 - 📊 **Credit Risk Modeling** – Explainable AI model for financial risk assessment
 - ⚙️ **ETL & Orchestration** – Automated pipelines with Airflow + DBT on Snowflake
 - 🤖 **RAG Chatbot** – Context-aware Q&A system powered by LangChain & Pinecone
+- 🧑‍💻 **Agentic AI Research Assistant with RAG** – Patent analysis automation using Python, LangChain, LangGraph & FastAPI
+- 🌍 **AI-Powered Travel Itinerary Planner** – Full-stack LLM-based system integrating real-time hotel & flight search
+- ✈️ **British Airways Review Analytics Dashboard** – Customer sentiment analysis & sales forecasting in Python + Tableau
+- 📈 **Sales Performance Analytics Dashboard** – Regional performance insights and campaign A/B testing via PowerBI + SQL
+- ⏳ **Time Series Analysis & Forecasting** – Power consumption prediction with SARIMAX + Tableau dashboard
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -93,7 +95,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />  
   </a>  
 </div>
-
 
 ###
 
